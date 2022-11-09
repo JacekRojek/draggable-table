@@ -1,5 +1,6 @@
 {
   "name": "draggable-table",
+  "homepage": "https://jacekrojek.github.io/draggable-table",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
