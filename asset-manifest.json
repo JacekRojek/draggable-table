@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/draggable-table/static/js/main.82239958.js",
+    "static/js/787.f7d683a3.chunk.js": "/draggable-table/static/js/787.f7d683a3.chunk.js",
+    "static/media/example.png": "/draggable-table/static/media/example.cd9d80e2371c879f21ae.png",
+    "static/media/board.jpeg": "/draggable-table/static/media/board.89eebe0da492b16363ea.jpeg",
+    "index.html": "/draggable-table/index.html",
+    "main.82239958.js.map": "/draggable-table/static/js/main.82239958.js.map",
+    "787.f7d683a3.chunk.js.map": "/draggable-table/static/js/787.f7d683a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.82239958.js"
+  ]
+}
