@@ -4,11 +4,16 @@ import ItemTypes from './ItemTypes'
 import DraggableBox from './DraggableBox'
 import doSnapToGrid from './snapToGrid'
 import update from 'immutability-helper'
+import background from "./assets/board.jpeg";
+
+
 const styles = {
-  width: 300,
-  height: 300,
+  width: 900,
+  height: 600,
   border: '1px solid black',
   position: 'relative',
+  backgroundImage: `url(${background})`,
+
 }
 function renderBox(item, key) {
   return <DraggableBox key={key} id={key} {...item} />
